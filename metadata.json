@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Name": "Move Window",
+        "Description": "KWin script that adds keyboard shortcuts to tile windows",
+        "Icon": "preferences-system-windows",
+        
+        "Authors": [
+            {
+                "Email": "noisyflake@icloud.com",
+                "Name": "NoisyFlake"
+            }
+        ],
+        "Id": "kwin-move-window",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/NoisyFlake/kwin-move-window"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
